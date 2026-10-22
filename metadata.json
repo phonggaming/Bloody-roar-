@@ -1,0 +1,6 @@
+{
+  "name": "Bloody Roar: Cảnh Hóa Arena 3D",
+  "description": "3D Beast Fighting Game inspired by Bloody Roar set in THCS Cảnh Hóa arena with teacher fighters, beast transformations, and street view environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
